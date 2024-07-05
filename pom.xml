@@ -22,7 +22,7 @@
         <scope>test</scope>
     </dependency>	  
 </dependencies>
- <!--Aviz add build
+ <!--Aviz add build-->
 
 <build>
     <plugins>
@@ -35,6 +35,6 @@
             </configuration>
         </plugin>
     </plugins>
-</build> -->
+</build>
 
 </project>
